@@ -11,3 +11,6 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 
 Time
 contains the seconds elapsed between each transaction and the first transaction in the dataset. The feature 'Amount' is the transaction
+
+# NOTE : since the  dataset file is very large(125 mb). I am providing a link to download the dataset. please have a look
+https://www.kaggle.com/mlg-ulb/creditcardfraud?select=creditcard.csv
